@@ -1,4 +1,4 @@
-![notes](img/401-notes.png)
+![notes](imgs/401-notes.png)
 
 # Code 401 Reading Notes
 
