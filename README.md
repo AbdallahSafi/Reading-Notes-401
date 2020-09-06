@@ -9,6 +9,7 @@ Here I put my notes, which I collect when I read the web development topics requ
 Read Num | Read title | Read link
 ------------ | ------------- | --------------
 01 |  Node Ecosystem, TDD, CI/CD | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-01)
+02 |   Classes, Inheritance | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-02)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
