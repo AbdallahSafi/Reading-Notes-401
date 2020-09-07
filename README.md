@@ -10,6 +10,7 @@ Read Num | Read title | Read link
 ------------ | ------------- | --------------
 01 |  Node Ecosystem, TDD, CI/CD | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-01)
 02 |   Classes, Inheritance | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-02)
+03 |   Data Modeling & NoSQL | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-03)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
