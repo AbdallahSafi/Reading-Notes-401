@@ -8,7 +8,7 @@ Before adding data to a database, a developer would need to assess how to struct
 
 CRUD (Create, Read, Update, and Delete) describes the four functions that are necessary in any application that involve a database.  This means that the application should allow one to create new entries in the database, access the information within the database, alter/update the information in the database, and remove entries from the database as needed.  Without CRUD, one would not have full access to the database that they are interacting with.
 
-*Source: https://stackify.com/what-are-crud-operations/*
+
 
 **What kind of database is Postgres? What kind of database is MongoDB?**
 
@@ -16,19 +16,19 @@ CRUD (Create, Read, Update, and Delete) describes the four functions that are ne
 
 * MongoDB is a NoSQL database (specifically, a document-based distributed database)
 
-*Source: https://www.postgresql.org/about/, https://www.mongodb.com/*
+
 
 **What is Mongoose and why do we need it?**
 
 Mongoose is an Object Document Mapper that allows one to define objects with a strongly-typed schema that is mapped to a MongoDB document.  My understanding at this time is that while Mongoose is not strictly necessary to use MongoDB, it can help to bridge the gap between SQL and NoSQL data by mapping a user-defined schema onto a Mongo document.
 
-*Source: https://code.tutsplus.com/articles/an-introduction-to-mongoose-for-mongodb-and-nodejs--cms-29527*
+
 
 **Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.**
 
 In animal classifications, an Order is within a Class and contains many types of Family 
 
-*Source: https://www.mensaforkids.org/teach/lesson-plans/classifying-animals/*
+
 
 **Name 3 cloud based NoSQL Databases**
 
@@ -38,13 +38,12 @@ In animal classifications, an Order is within a Class and contains many types of
 
 * Cassandra DB
 
-*Source: https://support.rackspace.com/how-to/examples-of-rdbms-and-nosql-databases/*
+
 
 ---
 
 ### Definitions
 
-*Note - Terms are the same as those from Class 03*
 
 |Term|Definition|Source|
 |:--|:-:|--:|
