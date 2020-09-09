@@ -12,6 +12,7 @@ Read Num | Read title | Read link
 02 |   Classes, Inheritance | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-02)
 03 |   Data Modeling & NoSQL | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-03)
 04 |   Advanced Mongo/Mongoose | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-04)
+05 |   Linked Lists | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-05)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
