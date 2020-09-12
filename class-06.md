@@ -94,4 +94,3 @@ The flexibility comes with if you need to move to another database layer later, 
 
 **API**: Application Program Interface - a contract provided by one piece of software to another (request & response)
 
-Video uses the GitHub API as an example of a RESTful API and demonstrates accessing data from the GitHub API using Postman
