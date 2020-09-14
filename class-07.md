@@ -1,47 +1,32 @@
-## Express Routing
+# Express
 
-* Event Driven System: when a get event happens on the server, check the route and run the function associated with that route
-```
-app.get('/thing', (req,res) => {})
-```
+### Express Routing  
+- Event Driven System  
+    - `app.get('/thing', (request,response) => {})`  
+- The Request Object  
+    - `(request,...)`  
+    - /:parameters  
+    - Parameters can be passed along the url and accessed on the req.params object.  
+        - `app.get('api/:thing',....)`  
+            - `request.params.thing`  
+    - Query Strings  
+    - You can query the api be adding ? and a filter parameter and can be accessed on the req.obj.(name of filter)  
+        - `http://server/route?ball=round`  
+            - `request.query.ball`
+- The Response Object  
+    - `(..., response)`  
+    - Responsible for sending information back to the browser  
+    - Has `.send()` and `.status()` Express uses these to format the ouput to the browser  
+    - Sends:  
+        - Cookies  
+        - Status Codes  
 
-* The Request Object can take Parameters (:params) and Query Strings (?key=value)
-
-* The Response Object is responsible for sending data back to the browser
-  - Can send Headers with Cookies and Status Codes
-
-## Express Middleware
-
-* Middleware can be divided into two categores:
-
-  - *Application Middleware* includes error handling, bringing in other routes, applying defaults, JSON/Body/Form Parsing
-
-  - *Route Middleware* deals with specific information for a route, such as are you logged in?  Is it your first time on this route?  What is your IP?
-
-## CRUD Operations with REST and Express
-
-|REST Method|CRUD Operation|Express Method Route|Function|
-|:-:|:-:|:-:|:--|
-|POST|CREATE|app.post('/resource')|Create a New Record|
-|GET|READ|app.get('/resource')|Retrieve 1+ Records|
-|PUT|UPDATE|app.put('/resource/:id')|Replace Record with an updated version|
-|DESTROY|DELETE|app.get('/resource/:id')|Remove a Record|
-
-## Server Testing
-
-* Best practice is to export your server as a module in a library and then use 'supertest' to run tests through the server without actually having to start the server for testing.  This limits the variables involved in the test
-
-* Similarly, 'superagent' can be wrapped in a module for testing so that the API is not actually called during server tests
-
-## Test Pyramid
-
-* Units: Server Internal Functions
-* Integration: How it connects to other services
-* Acceptance
-
-## [Express.js Fundamentals - 6 - Middleware Explained](https://www.youtube.com/watch?v=9HOem0amlyg)
-
-* **middleware**: Any number of functions that are invoked by the Espress.js routing layer before your final request handler is made
-
-  - All middleware functions carry an optional 'next' parameter, which is needed when passing along the request to the next function in the chain
-
+### Server Testing  
+- Avoid starting the server to test  
+    - Export it as a module in a library for testing  
+- `SuperTest` is a 3rd party library that requires in your server and you can then run your tests on your server.  
+    - This will hit your route as if the server was running  
+- You can wrap `superagent` in a module  
+    - Allows you to set up a 'mock' of this new agent module  
+    - 
+    
