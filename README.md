@@ -15,6 +15,8 @@ Read Num | Read title | Read link
 05 |   Linked Lists | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-05)
 06 |   HTTP and REST | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-06)
 07 |   Express | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-07)
+08 |   Express Routing | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-08)
+
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
