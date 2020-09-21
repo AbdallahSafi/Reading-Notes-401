@@ -20,6 +20,7 @@ Read Num | Read title | Read link
 10 |   Stacks & Queues | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-10)
 11 |   Authentication | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-11)
 12 |   OAuth | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-12)
+13 | Bearer Authorization | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-13)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
