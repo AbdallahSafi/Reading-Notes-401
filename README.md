@@ -23,6 +23,8 @@ Read Num | Read title | Read link
 13 | Bearer Authorization | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-13)
 14 | Access Control (ACL) | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-14)
 15 | Trees | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-15)
+16 | Event Driven Applications | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-16)
+
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
