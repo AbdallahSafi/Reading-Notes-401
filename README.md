@@ -24,6 +24,8 @@ Read Num | Read title | Read link
 14 | Access Control (ACL) | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-14)
 15 | Trees | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-15)
 16 | Event Driven Applications | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-16)
+17 | TCP Servers | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-17)
+
 
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
