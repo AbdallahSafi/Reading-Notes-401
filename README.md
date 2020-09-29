@@ -26,6 +26,7 @@ Read Num | Read title | Read link
 16 | Event Driven Applications | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-16)
 17 | TCP Servers | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-17)
 18 | Socket.io | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-18)
+19 | Message Queues | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-19)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
