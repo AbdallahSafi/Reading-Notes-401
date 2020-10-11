@@ -14,7 +14,6 @@ A library offers pieces that you can add to your code where you need it. A frame
 ### Vocabulary
 |Term | Definition |  
 |---|---|  
-| Rendering | This is what happens when an element is attached to the page or to the DOM.|  
-| Templates | Templates allow you to break down HTML into smaller bits that can be reused.  |  
-| State | State is a built-in object in React. When the state changes, the component rerenders.  |  
-
+| Rendering | This is what happens when an element is attached to the page or to the DOM. |  
+| Templates | Templates allow you to break down HTML into smaller bits that can be reused. |  
+| State | State is a built-in object in React. When the state changes, the component rerenders. |  
