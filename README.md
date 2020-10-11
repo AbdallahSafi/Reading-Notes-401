@@ -27,6 +27,7 @@ Read Num | Read title | Read link
 17 | TCP Servers | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-17)
 18 | Socket.io | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-18)
 19 | Message Queues | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-19)
+26 | Component Based UI | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-26)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
