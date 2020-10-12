@@ -29,6 +29,7 @@ Read Num | Read title | Read link
 19 | Message Queues | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-19)
 26 | Component Based UI | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-26)
 27 | Props and State| [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-27)
+28 | Component Composition| [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-28)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
