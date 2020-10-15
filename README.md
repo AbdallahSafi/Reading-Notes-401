@@ -30,6 +30,8 @@ Read Num | Read title | Read link
 26 | Component Based UI | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-26)
 27 | Props and State| [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-27)
 28 | Component Composition| [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-28)
+29 | Routing | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-29)
+30 | Hash table | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-30)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
