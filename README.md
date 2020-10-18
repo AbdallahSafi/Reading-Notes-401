@@ -32,6 +32,8 @@ Read Num | Read title | Read link
 28 | Component Composition| [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-28)
 29 | Routing | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-29)
 30 | Hash table | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-30)
+31 | Hooks | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-31)
+32 | Custom Hooks  | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-32)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
