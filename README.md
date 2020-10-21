@@ -34,6 +34,8 @@ Read Num | Read title | Read link
 30 | Hash table | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-30)
 31 | Hooks | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-31)
 32 | Custom Hooks  | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-32)
+33 | Context API  | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-33)
+34 | `<Login />` and `<Auth />`  | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/class-34)
 Prep |  Engineering Topics | [Click here](https://abdallahsafi.github.io/Reading-Notes-401/prep)
 
 
